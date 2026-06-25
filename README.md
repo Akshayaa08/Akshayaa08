@@ -6,11 +6,11 @@
 
 🌱 Currently learning **Angular, Java, Flask, JWT Authentication**
 
-💻 Interested in **Web Development, Full Stack Development, and Software Engineering**
+💻 Interested in **Software Engineering, Web Development and Full Stack Development**
 
 🚀 Building projects using **Angular, Python, Flask, Java, HTML, CSS, JavaScript**
 
-📚 Preparing for Software Developer and Product-Based Company Interviews
+📚 Preparing for Software Developer and Company Interviews
 
 ---
 
@@ -20,7 +20,7 @@
 - 💡 Passionate about solving real-world problems through technology
 - 🌱 Continuously improving my coding and development skills
 - 🔭 Currently working on Angular and Flask projects
-- 🎯 Goal: Become a Full Stack Software Engineer
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
@@ -69,12 +69,6 @@
 - Collections Framework
 - Frequently Asked Coding Questions
 
-### 🎉 Event Management Website
-- Responsive UI
-- Event Gallery
-- Registration Features
-- Modern Design
-
 ---
 
 ## 📊 GitHub Statistics
@@ -91,7 +85,7 @@
 
 Add your profile links here:
 
-- 🔗 LinkedIn: YOUR_LINKEDIN_URL
+- 🔗 LinkedIn: https://www.linkedin.com/in/akshayaa-gopikrishnan/
 - 🔗 LeetCode: YOUR_LEETCODE_URL
 - 🔗 HackerRank: YOUR_HACKERRANK_URL
 
